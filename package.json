@@ -1,0 +1,23 @@
+{
+  "name": "github",
+  "version": "1.0.0",
+  "description": "\"By using this website, you can access anyone github profile\"",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbdulaleemMughal/Github-Project.git"
+  },
+  "keywords": [
+    "\"Hello",
+    "world\""
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbdulaleemMughal/Github-Project/issues"
+  },
+  "homepage": "https://github.com/AbdulaleemMughal/Github-Project#readme"
+}
